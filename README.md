@@ -2,13 +2,6 @@ Improvised Face Detection and Recognition from video
 Overview.
 This repository showcases expertise in face detection using advanced algorithms such as ShuffleNet and MTCNN for video processing. Additionally, the project includes face counting, data management, algorithm integration, and face recognition using Eigenfaces.
 
-Table of Contents
-Face Detection
-Face Counting and Data Management
-Algorithm Integration
-Data Visualization
-Face Recognition with Eigenfaces
-Skills
 
 1. Face Detection
 Proficient in face detection using ShuffleNet and MTCNN algorithms specifically tailored for videos. This ensures accurate and efficient detection of faces in various scenarios.
