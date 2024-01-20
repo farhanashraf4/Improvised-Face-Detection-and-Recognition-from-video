@@ -24,6 +24,8 @@ ShuffleNet
 Eigenface Recognition
 Principal Component Analysis (PCA)
 Machine Learning
+
+
 How to Use
 Clone the repository: git clone https://github.com/your-username/face-detection-expertise.git
 Follow instructions in the project documentation for setup and usage.
