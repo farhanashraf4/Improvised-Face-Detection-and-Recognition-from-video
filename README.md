@@ -27,7 +27,7 @@ Machine Learning
 
 
 How to Use
-Clone the repository: git clone https://github.com/farhanashraf4/Improvised-Face-Detection-a nd-Recognition-from-video.git
+Clone the repository: git clone https://github.com/farhanashraf4/Improvised-Face-Detection-and-Recognition-from-video.git
 Follow instructions in the project documentation for setup and usage.
 Feel free to explore and contribute to further advancements in face detection and recognition. Your feedback and contributions are highly appreciated.
 
