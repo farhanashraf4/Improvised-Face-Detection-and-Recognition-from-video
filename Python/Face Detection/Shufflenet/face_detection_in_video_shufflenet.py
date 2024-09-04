@@ -5,8 +5,6 @@ from google.colab.patches import cv2_imshow
 video = cv2.VideoCapture('video_file_name.video_format')
 
 # Load the pretrained Shufflenet network (if needed)
-# Note: You may need to find an equivalent pre-trained model in Python
-# as Shufflenet is not available in OpenCV by default.
 
 # Create a face detector object
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
