@@ -7,8 +7,6 @@ import time
 video = cv2.VideoCapture('video_file_name.video_format')
 
 # Load pretrained shufflenet model (if needed)
-# Note: Shufflenet is not available in OpenCV by default, you may need to find an equivalent model in Python.
-# Alternatively, you can use a different pre-trained face detection model available in Python.
 
 # Create MTCNN face detector
 detector = MTCNN()
